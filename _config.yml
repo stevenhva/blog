@@ -83,7 +83,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/bio-photo-2.jpg"
-  bio              : "Strangely gravitated towards solving software related problems."
+  bio              : "Strangely gravitated towards solving software problems."
   location         : "Amsterdam, NL"
   email            : "srpvanh@gmail.com"
   uri              : # "https://mademistakes.com"

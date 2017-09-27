@@ -83,7 +83,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/bio-photo-2.jpg"
-  bio              : "Gravitated towards solving software related problems."
+  bio              : "Strangely gravitated towards solving software related problems."
   location         : "Amsterdam, NL"
   email            : "srpvanh@gmail.com"
   uri              : # "https://mademistakes.com"
@@ -253,7 +253,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Amsterdam # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)

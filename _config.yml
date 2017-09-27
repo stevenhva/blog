@@ -5,15 +5,15 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
+minimal_mistakes_skin    : "air" # "default", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Minimal Mistakes"
+locale                   : "nl-NL"
+title                    : "Steven's Blog"
 title_separator          : "-"
-name                     : &name "Michael Rose" # &name is a YAML anchor which can be *referenced later
-description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Steven van Hekelen" # &name is a YAML anchor which can be *referenced later
+description              : &description "My personal blog."
+url                      : "https://stevenhva.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 repository               : "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -50,16 +50,16 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
+google_site_verification : # "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "mmistakes"
+  username               : # &twitter "mmistakes"
 facebook:
-  username               : &facebook "michaelrose"
+  username               : # &facebook "michaelrose"
   app_id                 :
   publisher              :
 og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
@@ -69,8 +69,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/mmistakes"
-    - "https://facebook.com/michaelrose"
+  #  - "https://twitter.com/mmistakes"
+  #  - "https://facebook.com/michaelrose"
 
 # Analytics
 analytics:
@@ -82,22 +82,22 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/michael-rose.jpg"
-  bio              : "Just another boring, tattooed, time traveling, designer."
-  location         : "Buffalo, NY"
-  email            :
-  uri              : "https://mademistakes.com"
+  avatar           : "/assets/images/bio-photo-2.jpg"
+  bio              : "Gravitated towards solving software related problems."
+  location         : "Amsterdam, NL"
+  email            : "srpvanh@gmail.com"
+  uri              : # "https://mademistakes.com"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : *facebook
+  facebook         : # *facebook
   foursquare       :
-  github           : "mmistakes"
+  github           : "stevenhva"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "mmistakes"
+  instagram        : # "mmistakes"
   lastfm           :
   linkedin         :
   pinterest        :
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : *twitter
+  twitter          : # *twitter
   vine             :
   weibo            :
   xing             :
@@ -187,7 +187,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
@@ -205,7 +205,7 @@ defaults:
       author_profile: true
   # _docs
   - scope:
-      path: ""
+      path: "_docs"
       type: docs
     values:
       layout: single
@@ -217,7 +217,7 @@ defaults:
         nav: "docs"
   # _recipes
   - scope:
-      path: ""
+      path: "_recipes"
       type: recipes
     values:
       layout: single
@@ -226,7 +226,7 @@ defaults:
       comments: true
   # _pets
   - scope:
-      path: ""
+      path: "_pets"
       type: pets
     values:
       layout: single
@@ -235,7 +235,7 @@ defaults:
       comment: true
   # _portfolio
   - scope:
-      path: ""
+      path: "_portfolio"
       type: portfolio
     values:
       layout: single

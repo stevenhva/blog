@@ -2,7 +2,7 @@
 title: "Mobiles Test Farm: Create Your Own"
 header:
   overlay_image: /assets/images/mobile_devices_test_farm-android.png
-  overlay_filter: rgba(0, 50, 255, 0.5)
+  overlay_filter: rgba(0, 50, 255, 0.3)
   caption: "Photo credit: [**Testdroid**](https://bitbar.com)"
   cta_url: "https://bitbar.com"
 categories:
@@ -12,7 +12,7 @@ tags:
   - edge case
   - image
   - layout
-last_modified_at: 2016-11-03T11:45:09-04:00
+last_modified_at: 2017-09-28T08:27:09-04:00
 ---
 
 **Why** & **how** to build a low costs distributed grid for the testing of mobiles.

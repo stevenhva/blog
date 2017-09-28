@@ -2,7 +2,7 @@
 title: "Layout: Header Image (Vertical)"
 header:
   image: /assets/images/unsplash-image-6.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Testdroid**](https://bitbar.com)"
 categories:
   - Layout
   - Uncategorized

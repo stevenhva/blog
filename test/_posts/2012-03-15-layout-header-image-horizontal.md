@@ -2,7 +2,7 @@
 title: "Layout: Header Image (Horizontal)"
 header:
   image: /assets/images/mobile_devices_test_farm-android.png
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Testdroid**](https://bitbar.com)"
 categories:
   - Layout
   - Uncategorized

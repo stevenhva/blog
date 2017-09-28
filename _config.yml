@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         : # *facebook
   foursquare       :
-  github           : "stevenhva"
+  github           : [metadata]
   gitlab           :
   google_plus      :
   keybase          :

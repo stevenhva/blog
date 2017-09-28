@@ -12,15 +12,14 @@ tags:
   - edge case
   - image
   - layout
-last_modified_at: 2017-09-28T08:27:09-21:00
+last_modified_at: 2017-09-28T08:27:09-23:00
 ---
 
 **Why** & **how** to build an on-premise distributed grid for the parallel testing of mobiles.
 
 This post demonstrates automating the exution of applications testing on real iOS and Android devices.
 
-## 3 good reasons why
-
+## 3 good reasons why  
 1) Reason  
 2) Reason  
 3) Reason  

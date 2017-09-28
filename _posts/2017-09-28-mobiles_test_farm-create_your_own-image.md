@@ -12,7 +12,7 @@ tags:
   - edge case
   - image
   - layout
-last_modified_at: 2017-09-28T08:27:09-13:00
+last_modified_at: 2017-09-28T08:27:09-18:00
 ---
 
 **Why** & **how** to build an on-premise distributed grid for the parallel testing of mobiles.
@@ -21,7 +21,9 @@ This post demonstrates automating the exution of applications testing on real iO
 
 ## 3 good reasons why
 
-You can use it by specifying the opacity (between 0 and 1) of a black overlay like so:
+1) Reason
+2) Reason
+3) Reason
 
 ![transparent black overlay]({{ "/assets/images/mm-header-overlay-black-filter.jpg" | absolute_url }})
 
@@ -35,7 +37,10 @@ header:
   cta_url: "https://unsplash.com"
 ```
 
-Or if you want to do more fancy things, go full rgba:
+
+## A good way how
+
+Here is a suggested approach.
 
 ![transparent red overlay]({{ "/assets/images/mm-header-overlay-red-filter.jpg" | absolute_url }})
 

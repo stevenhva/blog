@@ -12,7 +12,7 @@ tags:
   - edge case
   - image
   - layout
-last_modified_at: 2017-09-28T08:27:09-18:00
+last_modified_at: 2017-09-28T08:27:09-19:00
 ---
 
 **Why** & **how** to build an on-premise distributed grid for the parallel testing of mobiles.

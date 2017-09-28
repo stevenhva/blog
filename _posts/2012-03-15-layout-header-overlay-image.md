@@ -15,9 +15,9 @@ tags:
 last_modified_at: 2017-09-28T08:27:09-04:00
 ---
 
-**Why** & **how** to build a low costs distributed grid for the testing of mobiles.
+**Why** & **how** to build a low costs distributed grid for the parallel testing of mobiles.
 
-This post demonstrates automating the exution of parallel applications testing on real iOS and Android devices.
+This post demonstrates automating the exution of applications testing on real iOS and Android devices.
 
 ## Overlay filter
 

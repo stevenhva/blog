@@ -12,7 +12,7 @@ tags:
   - edge case
   - image
   - layout
-last_modified_at: 2017-09-28T08:27:09-19:00
+last_modified_at: 2017-09-28T08:27:09-21:00
 ---
 
 **Why** & **how** to build an on-premise distributed grid for the parallel testing of mobiles.
@@ -21,9 +21,9 @@ This post demonstrates automating the exution of applications testing on real iO
 
 ## 3 good reasons why
 
-1) Reason
-2) Reason
-3) Reason
+1) Reason  
+2) Reason  
+3) Reason  
 
 ![transparent black overlay]({{ "/assets/images/mm-header-overlay-black-filter.jpg" | absolute_url }})
 

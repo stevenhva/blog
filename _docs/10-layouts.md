@@ -277,7 +277,7 @@ To provide a custom alt tag for screen readers:
 
 ```yaml
 header:
-  image: /assets/images/unsplash-image-1.jpg
+  image: /assets/images/mobile_devices_test_farm-android.png
   image_description: "A description of the image"
 ```
 
@@ -285,7 +285,7 @@ To include a caption or attribution for the image:
 
 ```yaml
 header:
-  image: /assets/images/unsplash-image-1.jpg
+  image: /assets/images/mobile_devices_test_farm-android.png
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ```
 
@@ -309,7 +309,7 @@ With this YAML Front Matter:
 ```yaml
 excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
 header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /assets/images/mobile_devices_test_farm-android.png
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   cta_label: "More Info"
   cta_url: "https://unsplash.com"
@@ -336,7 +336,7 @@ You can also specifying the opacity (between `0` and `1`) of a black overlay lik
 ```yaml
 excerpt: "This post should [...]"
 header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /assets/images/mobile_devices_test_farm-android.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   cta_label: "More Info"
@@ -350,7 +350,7 @@ Or if you want to do more fancy things, go full rgba:
 ```yaml
 excerpt: "This post should [...]"
 header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /assets/images/mobile_devices_test_farm-android.png
   overlay_filter: rgba(255, 0, 0, 0.5)
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   cta_label: "More Info"

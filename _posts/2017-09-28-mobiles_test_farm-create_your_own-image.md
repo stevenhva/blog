@@ -12,12 +12,12 @@ tags:
   - edge case
   - image
   - layout
-last_modified_at: 2017-09-28T18:13:09-23:00
+last_modified_at: 2017-09-28T18:17:09-23:00
 ---
 
 **Why** & **how** to build a framework on-premise for the parallel testing of mobile apps in a distributed grid.
 
-This post demonstrates automating the exution of applications testing on real iOS and Android devices.
+This post demonstrates automating the simultaneous exution of applications testing on physical iOS and Android devices.
 
 ## Three compelling reasons
 1) Reason  

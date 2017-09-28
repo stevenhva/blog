@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         : # *facebook
   foursquare       :
-  github           : [metadata]
+  github           : "stevenhva"
   gitlab           :
   google_plus      :
   keybase          :
@@ -308,3 +308,9 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+github: [metadata]
+encoding: UTF-8
+kramdown: 
+  input: GFM 
+  hard_wrap: false

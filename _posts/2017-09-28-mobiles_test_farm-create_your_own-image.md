@@ -15,7 +15,7 @@ tags:
 last_modified_at: 2017-09-28T08:27:09-23:00
 ---
 
-**Why** & **how** to build an on-premise distributed grid framework for parallel testing of mobile apps.
+**Why** & **how** to build a framework on-premise for the parallel testing of mobile apps in a distributed grid.
 
 This post demonstrates automating the exution of applications testing on real iOS and Android devices.
 

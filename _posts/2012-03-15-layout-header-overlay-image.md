@@ -2,7 +2,7 @@
 title: "Mobiles Test Farm: Create Your Own"
 header:
   overlay_image: /assets/images/mobile_devices_test_farm-android.png
-  overlay_filter: rgba(0, 50, 255, 0.3)
+  overlay_filter: rgba(0, 50, 255, 0.4)
   caption: "Photo credit: [**Testdroid**](https://bitbar.com)"
   cta_url: "https://bitbar.com"
 categories:

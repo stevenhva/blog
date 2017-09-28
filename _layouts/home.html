@@ -5,7 +5,7 @@ title: "Posts by Year"
 author_profile: true
 ---
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Posts by Year" }}</h3>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].posts_by_year | default: "Posts by Year" }}</h3>
 
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}

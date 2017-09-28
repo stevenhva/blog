@@ -1,6 +1,7 @@
 ---
 title: "Post: Future Date"
-date: 9999-12-31
+# date: 9999-12-31
+date: 2010-12-31
 categories:
   - Post
 ---

@@ -1,9 +1,10 @@
 ---
-title: "Layout: Header Image Overlay"
+title: "Mobiles Test Farm: Create Your Own"
 header:
   overlay_image: /assets/images/mobile_devices_test_farm-android.png
+  overlay_filter: rgba(0, 0, 255, 0.5)
   caption: "Photo credit: [**Testdroid**](https://bitbar.com)"
-  cta_url: "https://unsplash.com"
+  cta_url: "https://bitbar.com"
 categories:
   - Layout
   - Uncategorized
@@ -14,11 +15,9 @@ tags:
 last_modified_at: 2016-11-03T11:45:09-04:00
 ---
 
-This post should display a **header with an overlay image**, if the theme supports it.
+**Why** and **how**, to build a low costs distributed grid for the testing of mobiles.
 
-Non-square images can provide some unique styling issues.
-
-This post tests overlay header images.
+This post demonstrates automating the exution of parallel application tests on real iOS and Android devices.
 
 ## Overlay filter
 
@@ -31,7 +30,7 @@ excerpt: "This post should [...]"
 header:
   overlay_image: /assets/images/mobile_devices_test_farm-android.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Testdroid**](https://bitbar.com)"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   cta_label: "More Info"
   cta_url: "https://unsplash.com"
 ```
@@ -45,7 +44,7 @@ excerpt: "This post should [...]"
 header:
   overlay_image: /assets/images/mobile_devices_test_farm-android.png
   overlay_filter: rgba(255, 0, 0, 0.5)
-  caption: "Photo credit: [**Testdroid**](https://bitbar.com)"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   cta_label: "More Info"
   cta_url: "https://unsplash.com"
 ```

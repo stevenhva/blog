@@ -19,7 +19,7 @@ last_modified_at: 2017-09-28T08:27:09-23:00
 
 This post demonstrates automating the exution of applications testing on real iOS and Android devices.
 
-## 3 compelling reasons explain why
+## Three compelling reasons explain why
 1) Reason  
 2) Reason  
 3) Reason  
@@ -37,7 +37,7 @@ header:
 ```
 
 
-## A comprehensive framework is how
+## An automated testing framework is how
 
 Here is a suggested approach.
 

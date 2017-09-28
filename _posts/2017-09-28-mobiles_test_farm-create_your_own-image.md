@@ -1,5 +1,5 @@
 ---
-title: "Mobiles Test Farm: Create Your Own"
+title: "Create A Mobile Devices Test Farm"
 header:
   overlay_image: /assets/images/mobile_devices_test_farm-android.png
   overlay_filter: rgba(10, 50, 205, 0.7)

@@ -2,7 +2,7 @@
 title: "Layout: Header Image Overlay"
 header:
   overlay_image: /assets/images/mobile_devices_test_farm-android.png
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Testdroid**](https://bitbar.com)"
   cta_url: "https://unsplash.com"
 categories:
   - Layout
@@ -31,7 +31,7 @@ excerpt: "This post should [...]"
 header:
   overlay_image: /assets/images/mobile_devices_test_farm-android.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Testdroid**](https://bitbar.com)"
   cta_label: "More Info"
   cta_url: "https://unsplash.com"
 ```
@@ -45,7 +45,7 @@ excerpt: "This post should [...]"
 header:
   overlay_image: /assets/images/mobile_devices_test_farm-android.png
   overlay_filter: rgba(255, 0, 0, 0.5)
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Testdroid**](https://bitbar.com)"
   cta_label: "More Info"
   cta_url: "https://unsplash.com"
 ```

@@ -2,7 +2,7 @@
 title: "Mobiles Test Farm: Create Your Own"
 header:
   overlay_image: /assets/images/mobile_devices_test_farm-android.png
-  overlay_filter: rgba(0, 50, 255, 0.4)
+  overlay_filter: rgba(10, 50, 205, 0.7)
   caption: "Photo credit: [**Testdroid**](https://bitbar.com)"
   cta_url: "https://bitbar.com"
 categories:
@@ -19,7 +19,7 @@ last_modified_at: 2017-09-28T08:27:09-23:00
 
 This post demonstrates automating the exution of applications testing on real iOS and Android devices.
 
-## 3 good reasons why  
+## Why? 3 compelling reasons
 1) Reason  
 2) Reason  
 3) Reason  
@@ -37,7 +37,7 @@ header:
 ```
 
 
-## A good way how
+## How? A comprehensive framework
 
 Here is a suggested approach.
 

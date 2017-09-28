@@ -19,7 +19,7 @@ last_modified_at: 2017-09-28T08:27:09-04:00
 
 This post demonstrates automating the exution of applications testing on real iOS and Android devices.
 
-## Overlay filter
+## WHY?
 
 You can use it by specifying the opacity (between 0 and 1) of a black overlay like so:
 

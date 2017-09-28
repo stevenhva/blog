@@ -2,7 +2,7 @@
 title: "Mobiles Test Farm: Create Your Own"
 header:
   overlay_image: /assets/images/mobile_devices_test_farm-android.png
-  overlay_filter: rgba(0, 100, 255, 0.2)
+  overlay_filter: rgba(0, 50, 255, 0.5)
   caption: "Photo credit: [**Testdroid**](https://bitbar.com)"
   cta_url: "https://bitbar.com"
 categories:
@@ -17,7 +17,7 @@ last_modified_at: 2016-11-03T11:45:09-04:00
 
 **Why** & **how** to build a low costs distributed grid for the testing of mobiles.
 
-This post demonstrates automating the exution of parallel application tests on real iOS and Android devices.
+This post demonstrates automating the exution of parallel applications testing on real iOS and Android devices.
 
 ## Overlay filter
 
